@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a senior at St. Lawrence University majoring in Psychology and Statistics. :brain 
+I am a senior at St. Lawrence University majoring in Psychology and Statistics. :brain: 
 
 I've worked on three research projects at St. Lawrence including making sport related education modules for the SCORE Network,
 a shiny app that visualizes mental health data, and I'm currently working on a research project that invesitgates how chewing gum affects motor performance. 
