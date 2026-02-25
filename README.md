@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am a senior at St. Lawrence University majoring in Psychology and Statistics. :brain 
+
+I've worked on three research projects at St. Lawrence including making sport related education modules for the SCORE Network,
+a shiny app that visualizes mental health data, and I'm currently working on a research project that invesitgates how chewing gum affects motor performance. 
+
 <!--
 **ferhin23/ferhin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
